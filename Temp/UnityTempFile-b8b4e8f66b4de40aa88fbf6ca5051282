@@ -179,6 +179,7 @@
 -define:UNITY_TEAM_LICENSE
 'Assets/Scripts/PayerControler.cs'
 'Assets/Scripts/Rotator.cs'
+'Assets/Scripts/TargetingSystem.cs'
 -r:'/opt/Unity/Editor/Data/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/opt/Unity/Editor/Data/Mono/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/opt/Unity/Editor/Data/Mono/lib/mono/unity/UnityScript.dll'

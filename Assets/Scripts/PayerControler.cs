@@ -30,7 +30,7 @@ public class PayerControler : MonoBehaviour {
 		}
 		if(Input.GetKeyUp("a")){
 			gameObject.GetComponent<Rigidbody2D>().velocity =
-									new Vector2(moveX *playerSpeed,gameObject.GetComponent<Rigidbody2D>().velocity.y);
+									new Vector2(-moveX *playerSpeed,gameObject.GetComponent<Rigidbody2D>().velocity.y);
 			numOfMoves++;
 		}
 		}
