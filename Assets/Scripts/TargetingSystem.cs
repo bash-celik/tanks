@@ -26,6 +26,5 @@ public class TargetingSystem : MonoBehaviour {
 
 		transform.up = direction;
 
-		Debug.Log(transform.localPosition);
 	}
 }
